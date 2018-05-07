@@ -1,0 +1,7 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+aws.js
+firebase.js
+config/
+functions/
