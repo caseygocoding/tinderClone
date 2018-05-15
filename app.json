@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tinder",
-    "description": "This project is really great.",
+    "name": "Tinder for Pets",
+    "description": "A tinder clone with the following functionalities: developed a responsive mobile app using React-Native incorporating horizontal scroll view, enabled user authentication and a real-time database with Firebase as well as AWS S3 for photos storage, supported push notifications and fulfilled iOS permission requirements to obtain user locations",
     "slug": "tinder",
     "privacy": "public",
     "sdkVersion": "27.0.0",
